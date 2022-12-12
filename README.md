@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @sgebe89
 - 👀 I’m interested in music, programming, hacker news.
-- 💞️ I’m looking to collaborate on [music](https://github.com/sgebe89/AudioAssets) or [OuluBSD/libtopside](https://github.com/OuluBSD/libtopside) very casually. Come to say hi.
 - 📫 Send your very casual email to reach me ... [here](mailto://seppo.pakonen@gmail.com)
