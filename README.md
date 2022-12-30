@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @sgebe89, a songwriter, but I also know how to program a bit.
 - 👀 I’m interested in *current things* (twitter, gettr, hackernews, zerohedge, globalresearch, naturalnews, youtube, infowars)
 - 💪 I've been using Linux or BSD regularly since 2003 (since Mandrake 9.2) 
-- 😕 I have chronic pain in face 
+- 😕 I have chronic pain in my face 
 - 😕 My irritation threshold is very low.
 - 🖥 I have intensively gone through the entire PC and early internet (since 1997) 
   - 🖥 I had all the popular DOS games to play since I was 4 years old.
   - 🖥 I had an Amiga 500 and a couple of hundred games since I was 7 years old.
-  - 🖥 I had free access to the Internet on public machines since 1997, which I enjoyed using.
-  - 🖥 I have had a PC and Internet since I was 10 years old (Win98, 56k modem)
+  - 🖥 I had free access to the Internet on public machines since I was 7 in 1997, which I enjoyed using.
+  - 🖥 I have had a PC and Internet since I was 10 years old in 1999 (Win98, 56k modem)
   - 💾 We exchanged games and files with friends on 1.44 floppies 
   - 📡I used Napster and Winamp 1999 
   - 📡I used DC++, KaZaa, Torrent, etc. in 2002+
@@ -19,7 +19,7 @@
   - 🎼🎸🎧 I've been focusing more on notation since I started using Guitar Pro in 2005 
   - 😮 The most listened song of mine was a song in 2007, when there were 200-300k individual listens or downloads.
   - 😮 My songs have been listened to in total between 500k-1M between 2006-2012.
-  - 🤔 I cleaned out my old songs in 2022 and I'm trying something again, but success in modern times seems impossible
+  - 🤔 I cleaned out my old songs in 2022 and I'm trying to publish something again, but success in modern times seems impossible
 - 👍 I **like** 
   - 👍 Making music 
     - 👍 see my full song catalogue in [AudioAssets](https://github.com/sgebe89/AudioAssets)
