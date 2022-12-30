@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sgebe89, a songwriter, but I also know how to program a bit.
+- 👋 Hi, I’m @SeppoPakonen, a songwriter, but I also know how to program a bit.
 - 👀 I’m interested in *current things* (twitter, gettr, hackernews, zerohedge, globalresearch, naturalnews, youtube, infowars)
 - 💪 I've been using Linux or BSD regularly since 2003 (since Mandrake 9.2) 
 - 😕 I have chronic pain in my face 
@@ -24,7 +24,7 @@
   - 🤔 I cleaned out my old songs in 2022 and I'm trying to publish something again, but success in modern times seems impossible
 - 👍 I **like** 
   - 👍 Making music 
-    - 👍 see my full song catalogue in [AudioAssets](https://github.com/sgebe89/AudioAssets)
+    - 👍 see my full song catalogue in [AudioAssets](https://github.com/SeppoPakonen/AudioAssets)
   - 👀👍👌 Ultimate++ and it's conventions
   - 👍👌 strict RAII
   - 👍👌 Valgrinding my code to be clean
