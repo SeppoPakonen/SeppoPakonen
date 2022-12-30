@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @sgebe89
-- 👀 I’m interested in music, programming, hacker news.
-- 📫 Send your very casual email to reach me ... [here](mailto://seppo.pakonen@gmail.com)
+- 👋 Hi, I’m @sgebe89, a songwriter, but I also know how to program a bit.
+- 👀 I’m interested in *current things* (twitter, gettr, hackernews, zerohedge, globalresearch, naturalnews, youtube, infowars)
+- I've been using Linux or BSD regularly since 2003 (since Mandrake 9.2)
+- I have chronic pain and my irritation threshold is low, especially with ugly practices, old-fashioned standard solutions, unnecessary verbiage and non-RAII solutions.
