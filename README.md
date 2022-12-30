@@ -3,6 +3,8 @@
 - 💪 I've been using Linux or BSD regularly since 2003 (since Mandrake 9.2) 
 - 😕 I have chronic pain in my face 
 - 😕 My irritation threshold is very low.
+- 🎺 My Skills, Titles, and Merit
+  - 😑 TBA
 - 🖥 I have intensively gone through the entire PC and early internet (since 1997) 
   - 🖥 I had all the popular DOS games to play since I was 4 years old.
   - 🖥 I had an Amiga 500 and a couple of hundred games since I was 7 years old.
