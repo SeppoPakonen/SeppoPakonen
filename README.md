@@ -1,4 +1,15 @@
 - 👋 Hi, I’m @sgebe89, a songwriter, but I also know how to program a bit.
 - 👀 I’m interested in *current things* (twitter, gettr, hackernews, zerohedge, globalresearch, naturalnews, youtube, infowars)
 - I've been using Linux or BSD regularly since 2003 (since Mandrake 9.2)
-- I have chronic pain and my irritation threshold is low, especially with ugly practices, old-fashioned standard solutions, unnecessary verbiage and non-RAII solutions.
+- I have chronic pain
+- My irritation threshold is very low.
+- I **hate** especially 👎
+  - ugly conventions 👎
+  - old-fashioned standard solutions 👎
+  - unnecessary verbosity 👎👎
+  - snake_case classes 👎💀
+  - camelCase anywhere 👎💀💀
+  - hungarian notation 👎👎💀💀
+  - non-RAII solutions 👎👎👎💀💀
+    - languages where the new operator is overused 👎👎👎👎💀💀💀
+      - java, javascript, C#, Qt-libraries, etc. 👎👎👎👎👎💀💀💀💀
