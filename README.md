@@ -11,18 +11,6 @@ I have a deep understanding of algorithms and software engineering principles wi
 - Optimizing: SIMD, Parallelism and Multithreading
 - Version control: git, subversion
 
-🎼 My Music Experience
-- Music software consumer: Steinberg Cubase, TuxGuitar, Guitar Pro, Music Theory
-- Audio production: music compositions, lyrics, production, mixing and mastering
-- Music software development: VST plugins
-- Songwriting: Rap, Pop, rock, metal, and orchestral composition
-- Music industry experience: Track streaming, publishing, and live performance
-
-🖥 My PC Experience
-- Operating systems: Windows -94, Linux -02, FreeBSD -12
-- Gaming: DOS games, Amiga 500 games, and popular shooters (wolfenstein 3D, doom, duke nukem 3D, CS 1.x, SoF2, sauerbraten, nexuiz, xonotic, [rexuiz](https://rexuiz.com/))
-- Networking & file sharing: Ftp, Napster, Winamp, KaZaa, Torrent, DC++, Audioz, archive.org, open source
-
 🙌 My Personal Interests
 - Open source software development: Ultimate++
 - Artificial intelligence and neural networks: ConvNetCpp
