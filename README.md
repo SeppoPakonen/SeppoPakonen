@@ -2,6 +2,11 @@
 
 I have a deep understanding of algorithms and software engineering principles with a strong emphasis on good software design. I have a passion for software development and thrive to build programs with good solutions, like Ultimate++ and FreeBSD system.
 
+👀 Projects you should check out:
+- My [OuluLinux](https://github.com/OuluLinux/) projects
+- My [OuluBSD](https://github.com/OuluBSD) projects
+- My most starred projects: [Overlook](https://github.com/OuluLinux/Overlook), [ConvNetCpp](https://github.com/OuluLinux/ConvNetCpp)
+
 💪 My Skills and Experience
 - C++ development: Ultimate++, C++, Clang, GCC, and Visual Studio as well as MSYS2 and cygwin
 - Front end development: GUI forms, minimalism style html
