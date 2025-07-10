@@ -1,4 +1,4 @@
-Seppo Pakonen 👋
+# Seppo Pakonen 👋
 
 C++ Freelancer · AI & 3D Engine Architect · Music Tech Enthusiast
 
